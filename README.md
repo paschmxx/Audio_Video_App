@@ -4,7 +4,7 @@
 
 Audio Video - streaming app for movies, teasers, cartoons, tv shows, tv series.
 The content that appears on Audio Video is based on nowadays standards.
-Any user can easily find the website by just typing MP in the web browser tab.
+Any user can easily find the website by just typing Audio Video in the web browser tab.
 
 [Who maintains/contributed to the project]
 
